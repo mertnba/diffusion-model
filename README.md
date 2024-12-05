@@ -19,12 +19,6 @@ This project implements several parametric models to analyze diffusion-weighted 
 - `tests/`: Unit tests for models, evaluation, and visualization.
 - `scripts/`: Scripts for running experiments.
 
-## Usage
-1. Load and preprocess data using `data_processing/`.
-2. Train models with scripts in `optimization/`.
-3. Evaluate results using metrics in `evaluation/`.
-4. Visualize results with functions in `visualization/`.
-
 ## Dependencies
 - Python 3.7+
 - NumPy
