@@ -16,7 +16,8 @@ This project implements several parametric models to analyze diffusion-weighted 
 - `optimization/`: Optimization and bootstrapping methods.
 - `evaluation/`: Metrics for model evaluation.
 - `visualization/`: Plotting and result visualization.
-- `tests/`
+- `tests/`: Unit tests for models, evaluation, and visualization.
+- `scripts/`: Scripts for running experiments.
 
 ## Usage
 1. Load and preprocess data using `data_processing/`.
