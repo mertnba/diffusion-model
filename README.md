@@ -1,5 +1,5 @@
 ## Overview
-This project implements several parametric models to analyze diffusion-weighted MRI data. The key models include:
+This project implements several parametric models to analyze diffusion-weighted MRI data. 
 - Ball-Stick Model
 - Zeppelin-Stick Model
 - Diffusion Tensor Model
@@ -16,6 +16,7 @@ This project implements several parametric models to analyze diffusion-weighted 
 - `optimization/`: Optimization and bootstrapping methods.
 - `evaluation/`: Metrics for model evaluation.
 - `visualization/`: Plotting and result visualization.
+- `tests/`
 
 ## Usage
 1. Load and preprocess data using `data_processing/`.
